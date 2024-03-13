@@ -48,3 +48,8 @@ Hope you enjoy the application.
         ├── image.py                //python script file
         ├── hdf5 files              //hdf5 data files
         ├── dicom files             //dicom data files
+
+
+Here are the screenshot of the application.
+![1710342542461](https://github.com/uncleeesky/Visualization-of-Multivariate-2D-Scalar-Fields/assets/39225880/45ca336c-70fd-4b06-ace9-36f94182a7ca)
+
