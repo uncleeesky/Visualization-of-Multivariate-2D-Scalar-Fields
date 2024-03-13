@@ -1,6 +1,9 @@
 # Visualization-of-Multivariate-2D-Scalar-Fields
 This appication is a web application visualizing 2d medical images with different visualization techniques.
-
+Since github cannot upload large files, please download the compressed packages from these links and add it to the directory.
+1. raw data please put it in ./src/server: https://drive.google.com/file/d/1XWOv8sxfAfs9OTumwO89fIqIGmKUFi5v/view?usp=drive_link
+   
+3. node modules please put it in Root directory: https://drive.google.com/file/d/1E172-jgslTJTs3uzFTFS718IAEKNTro3/view?usp=drive_link
 
 The application will run in the environment of nodejs and python, so it is essential to have python and nodejs on the computer.
 If you dont have you can download and install python here:https://www.python.org/downloads/release/python-3122/ and nodejs here:https://nodejs.org/en
