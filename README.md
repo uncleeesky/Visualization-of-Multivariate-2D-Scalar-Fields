@@ -1,5 +1,4 @@
 # Visualization-of-Multivariate-2D-Scalar-Fields
-master thesis
 This appication is a web application visualizing 2d medical images with different visualization techniques.
 
 
